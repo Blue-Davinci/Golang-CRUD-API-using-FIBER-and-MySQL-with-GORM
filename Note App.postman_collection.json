@@ -13,7 +13,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"title\": \"You'll learn how to build a CRUD API with FastAPI\",\r\n    \"content\": \"Fastapi is really easy to use\",\r\n    \"category\": \"FastAPI\"\r\n}",
+					"raw": "{\r\n    \"title\": \"A CRUD API with FastAPI\",\r\n    \"content\": \"Fastapi is really easy to use\",\r\n    \"category\": \"FastAPI\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -84,7 +84,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"title\": \"✅✅👇👇This article will teach Django REST framework\"\r\n}",
+					"raw": "{\r\n    \"title\": \"✅✅👇👇 Django REST framework is fun\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
