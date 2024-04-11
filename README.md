@@ -23,7 +23,7 @@ go get gorm.io/driver/mysql
 go get github.com/spf13/viper
 go install github.com/cosmtrek/air@latest
 ```
-    The packages are used for the following:
+--The packages are used for the following:
 ```
 fiber – A high-performance web framework for Golang that supports middleware, routing, and error handling, as well as many other features commonly found in web frameworks.
 uuid – A library to generate and parse UUIDs in Golang.
