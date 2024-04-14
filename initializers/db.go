@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/wpcodevo/golang-fiber-mysql/models"
+	"github.com/blue-davinci/golang-crud-api-using-fiber-and-mysql-with-gorm/models"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
