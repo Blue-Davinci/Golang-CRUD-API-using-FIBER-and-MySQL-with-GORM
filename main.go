@@ -6,8 +6,8 @@ import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
 	"github.com/gofiber/fiber/v2/middleware/logger"
-	"github.com/wpcodevo/golang-fiber-mysql/controllers"
-	"github.com/wpcodevo/golang-fiber-mysql/initializers"
+	"github.com/blue-davinci/golang-crud-api-using-fiber-and-mysql-with-gorm/controllers"
+	"github.com/blue-davinci/golang-crud-api-using-fiber-and-mysql-with-gorm/initializers"
 )
 
 func init() {
