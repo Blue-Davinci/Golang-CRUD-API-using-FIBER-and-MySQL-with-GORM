@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/wpcodevo/golang-fiber-mysql/initializers"
-	"github.com/wpcodevo/golang-fiber-mysql/models"
+	"github.com/blue-davinci/golang-crud-api-using-fiber-and-mysql-with-gorm/initializers"
+	"github.com/blue-davinci/golang-crud-api-using-fiber-and-mysql-with-gorm/models"
 	"gorm.io/gorm"
 )
 
